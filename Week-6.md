@@ -5,7 +5,7 @@ A server program written in one programming language (for example C++) provides 
 ###### *Question*
 Describe the problems due to each of the five aspects of heterogeneity that need to be solved to make it possible for a client object to invoke a method on the server object.
 
-##### *Answer1*
+###### *Answer1*
 Computers being connected to the Internet,we could make the following assumption :Internet protocols handle the differences between networks.
 But the hardware used in computers is different. In the request and response messages from the clients to the objects, it is therefore necessary to manage the differences in representation of the data elements.
 We have to define a common standart for each type of data element to be transmitted.
