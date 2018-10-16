@@ -12,10 +12,10 @@ We have to define a common standart for each type of data element to be transmit
 Computers have the ability to run different operating systems.
 It is therefore necessary that there are standards for each type of writing structure (example: chains, tables, ...) so that a translator can understand the language of the object and translate it for the clients.
 To resume, all points are:
-- the system uses a common set of communication protocols
-- the system uses standard to represent the data elements
-- the system uses standard for message transmission
-- the system uses a language-independent standard to represent data structures
+1/ the system have to use a common set of communication protocols
+2/ the system have to use standard to represent the data elements
+3/ the system have to use standard for message transmission
+4/ the system have to use a language-independent standard to represent data structures
 
 ## Case Nr. 2
 ###### *Let us contunue with a situation from Case Nr. 1*
